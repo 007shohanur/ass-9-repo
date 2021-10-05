@@ -1,5 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
+import image from '../../img/Notfound.jpeg'
 
 const NotFound = () => {
     return (
@@ -7,7 +8,7 @@ const NotFound = () => {
             <Container>
                 <Row>
                     <Col>
-                   <h2> NOT FOUND</h2>
+                    <img src={image} alt="" />
                     </Col>
                  </Row>
             </Container>

@@ -8,6 +8,8 @@ import NotFound from './Components/NotFound/NotFound';
 import About from './Components/About/About';
 import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
+import Contact from './Components/ContactFrom/Contact';
+
 
 function App() {
   return (
@@ -24,10 +26,13 @@ function App() {
         <Route path="/about">
           <About></About>
         </Route>
+        <Route path="/contact">
+          <Contact></Contact>
+        </Route>
         <Route path="/services">
           <Services></Services>
         </Route>
-        <Route path="/NotFound">
+        <Route path="*">
           <NotFound></NotFound>
         </Route>
       </Switch>
