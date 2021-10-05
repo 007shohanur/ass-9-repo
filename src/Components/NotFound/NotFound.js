@@ -8,7 +8,7 @@ const NotFound = () => {
             <Container>
                 <Row>
                     <Col>
-                    <img src={image} alt="" />
+                    <img src={image} className="pb-4" alt="" />
                     </Col>
                  </Row>
             </Container>
