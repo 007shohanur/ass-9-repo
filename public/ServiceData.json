@@ -1,0 +1,38 @@
+[{"id":1,"name":"CT scanner","detail":" A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses ", "price":"$100"
+    ,"img":"https://www.medgadget.com/wp-content/uploads/2019/11/Refurbished-Medical-Equipment-Market.jpg"},{"id":2,"name":"X-ray","detail":"An X-ray machine is any machine that involves X-rays. It may consist of an X-ray generator and an X-ray detector.", "price":"$110",
+        "img":"https://d35cnulyv0pa6p.cloudfront.net/styles/800px_wide/s3/products/images/2020/23660/0109-xin_yi_-dui_zhe_dm-xuan_ding_xiu_gai_-er_xiao_xiu_gai_-removebg-preview.png?Rjq8WpntLkWFouO7VT2UQtBpzs4OM0To&itok=YEr0EnvE"},{"id":3,"name":"Ultrasound","detail":"Ultrasound is sound waves with frequencies higher than the upper audible limit of human hearing. Ultrasound is not different from \"normal\" (audible) sound in its physical properties, except that humans cannot hear it. ", "price":"$120",
+            "img":"https://image.shutterstock.com/image-photo/ultrasound-scanner-machine-isolated-on-600w-1668453565.jpg"},{"id":4,"name":"Electrocardiograph Machine","detail":"Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]). It is a graph of voltage versus time of the electrical activity of the heart[4] using electrodes placed on the skin. ", "price":"$100" 
+                ,"img":"https://cdn10.bigcommerce.com/s-p10g1rn/product_images/uploaded_images/shutterstock-414452563-ecg2.jpg?t=1531231548" },
+                
+                    {   "id": 5,
+                        "name": "Infusion pump",
+                        "detail":  "A computerized tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels and soft tissues inside your body.","price":"$150",
+                         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Infusionspumpe.JPG/250px-Infusionspumpe.JPG"
+                    },
+                    {   "id": 6,
+                        "name":"CBC Blood Test Machine",
+                        "detail": "An X-ray machine is any machine that involves X-rays. It may consist of an X-ray generator and an X-ray detector.","price":"$120",
+                         "img": "https://5.imimg.com/data5/NS/TC/MY-23931461/cbc-blood-test-machine-500x500.jpg"
+                    },
+                    {   "id": 7,
+                        "name": "Universal Test Machines",
+                        "detail":"Ultrasound is sound waves with frequencies higher than the upper audible limit of human hearing. Ultrasound is not different from normal (audible) sound in its physical properties.","price":"$120",
+                         "img": "https://ametekcdn.azureedge.net/mediafiles/ametektest/products/material%20testers/Single_Column_Testers_LS_210x360.jpg"
+                    },
+                      {"id": 8,
+                        "name": "Urine test",
+                        "detail":"Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]). It is a graph of voltage versus time of the electrical activity of the heart[4] using electrodes placed on the skin. ", "price":"$120",
+                         "img": "https://image.made-in-china.com/2f0j00mKRTkqdgZEUn/Urine-Analysis-Equipment-Urine-Test-Machine-Mslua04.jpg"
+                    },
+                      {"id": 9,
+                        "name": "Hematology",
+                        "detail":"Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]). It is a graph of voltage versus time of the electrical activity of the heart[4] using electrodes placed on the skin. ","price":"$120",
+                         "img": "https://sc01.alicdn.com/kf/HTB1QXNJXozrK1RjSspmq6AOdFXaR/229210796/HTB1QXNJXozrK1RjSspmq6AOdFXaR.jpg"
+                    }
+                
+            
+            
+            
+            
+            
+            ]
